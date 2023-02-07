@@ -15,8 +15,5 @@ public class ExcelEx1 {
 		
 		String MYCELL = WorkbookFactory.create(myfile).getSheet("Sheet1").getRow(0).getCell(3).getStringCellValue();
 
-		System.out.println(MYCELL);
-		
-	}
-	//C:\Users\user\eclipse-workspace\16july_evening_selenium
-}
+		System.out.println(MYCELL);		
+	}}
