@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[lonching the browser]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for1000ms]]>
+    </line>
+    <line>
+      <![CDATA[readdata from excel]]>
+    </line>
+    <line>
+      <![CDATA[Entering mobile number....]]>
+    </line>
+    <line>
+      <![CDATA[Clicking the signup buttion]]>
+    </line>
+    <line>
+      <![CDATA[Login successful.....]]>
+    </line>
+    <line>
+      <![CDATA[readdata from excel]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for500ms]]>
+    </line>
+    <line>
+      <![CDATA[Entering the password]]>
+    </line>
+    <line>
+      <![CDATA[clicking on submitButtion]]>
+    </line>
+    <line>
+      <![CDATA[go to home page]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for1000ms]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for1000ms]]>
+    </line>
+    <line>
+      <![CDATA[clicking on ok buttion]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for1000ms]]>
+    </line>
+    <line>
+      <![CDATA[click on close popup]]>
+    </line>
+    <line>
+      <![CDATA[handling popups]]>
+    </line>
+    <line>
+      <![CDATA[getting Acual ACbalnce]]>
+    </line>
+    <line>
+      <![CDATA[readdata from excel]]>
+    </line>
+    <line>
+      <![CDATA[validate Ac balce test case is pass]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for1000ms]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for1000ms]]>
+    </line>
+    <line>
+      <![CDATA[logging out neostock]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for1000ms]]>
+    </line>
+    <line>
+      <![CDATA[readdata from excel]]>
+    </line>
+    <line>
+      <![CDATA[Entering mobile number....]]>
+    </line>
+    <line>
+      <![CDATA[Clicking the signup buttion]]>
+    </line>
+    <line>
+      <![CDATA[Login successful.....]]>
+    </line>
+    <line>
+      <![CDATA[readdata from excel]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for500ms]]>
+    </line>
+    <line>
+      <![CDATA[Entering the password]]>
+    </line>
+    <line>
+      <![CDATA[clicking on submitButtion]]>
+    </line>
+    <line>
+      <![CDATA[go to home page]]>
+    </line>
+    <line>
+      <![CDATA[there no popup]]>
+    </line>
+    <line>
+      <![CDATA[handling popups]]>
+    </line>
+    <line>
+      <![CDATA[getting Acual userId Apeksha Londhe]]>
+    </line>
+    <line>
+      <![CDATA[readdata from excel]]>
+    </line>
+    <line>
+      <![CDATA[getting Acual userId Apeksha Londhe]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for500ms]]>
+    </line>
+    <line>
+      <![CDATA[Testcase is pass]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for3000ms]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for1000ms]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for1000ms]]>
+    </line>
+    <line>
+      <![CDATA[logging out neostock]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-12-23T19:22:48 IST" name="Default suite" finished-at="2022-12-23T19:23:41 IST" duration-ms="53096">
+    <groups>
+    </groups>
+    <test started-at="2022-12-23T19:22:48 IST" name="Default test" finished-at="2022-12-23T19:23:41 IST" duration-ms="53096">
+      <class name="Neotestclasses.validateUserid">
+        <test-method is-config="true" signature="lonchNeostock()[pri:0, instance:Neotestclasses.validateUserid@791f145a]" started-at="2022-12-23T19:22:48 IST" name="lonchNeostock" finished-at="2022-12-23T19:23:00 IST" duration-ms="11619" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[lonching the browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- lonchNeostock -->
+        <test-method is-config="true" signature="loginNeostock()[pri:0, instance:Neotestclasses.validateUserid@791f145a]" started-at="2022-12-23T19:23:00 IST" name="loginNeostock" finished-at="2022-12-23T19:23:22 IST" duration-ms="21734" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Waiting for1000ms]]>
+            </line>
+            <line>
+              <![CDATA[readdata from excel]]>
+            </line>
+            <line>
+              <![CDATA[Entering mobile number....]]>
+            </line>
+            <line>
+              <![CDATA[Clicking the signup buttion]]>
+            </line>
+            <line>
+              <![CDATA[Login successful.....]]>
+            </line>
+            <line>
+              <![CDATA[readdata from excel]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for500ms]]>
+            </line>
+            <line>
+              <![CDATA[Entering the password]]>
+            </line>
+            <line>
+              <![CDATA[clicking on submitButtion]]>
+            </line>
+            <line>
+              <![CDATA[go to home page]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for1000ms]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for1000ms]]>
+            </line>
+            <line>
+              <![CDATA[clicking on ok buttion]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for1000ms]]>
+            </line>
+            <line>
+              <![CDATA[click on close popup]]>
+            </line>
+            <line>
+              <![CDATA[handling popups]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loginNeostock -->
+        <test-method signature="validateACbalance()[pri:0, instance:Neotestclasses.validateUserid@791f145a]" started-at="2022-12-23T19:23:22 IST" name="validateACbalance" finished-at="2022-12-23T19:23:22 IST" duration-ms="200" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[getting Acual ACbalnce]]>
+            </line>
+            <line>
+              <![CDATA[readdata from excel]]>
+            </line>
+            <line>
+              <![CDATA[validate Ac balce test case is pass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validateACbalance -->
+        <test-method is-config="true" signature="logout_neostock()[pri:0, instance:Neotestclasses.validateUserid@791f145a]" started-at="2022-12-23T19:23:22 IST" name="logout_neostock" finished-at="2022-12-23T19:23:22 IST" duration-ms="357" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Waiting for1000ms]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for1000ms]]>
+            </line>
+            <line>
+              <![CDATA[logging out neostock]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logout_neostock -->
+        <test-method is-config="true" signature="loginNeostock()[pri:0, instance:Neotestclasses.validateUserid@791f145a]" started-at="2022-12-23T19:23:22 IST" name="loginNeostock" finished-at="2022-12-23T19:23:40 IST" duration-ms="17768" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Waiting for1000ms]]>
+            </line>
+            <line>
+              <![CDATA[readdata from excel]]>
+            </line>
+            <line>
+              <![CDATA[Entering mobile number....]]>
+            </line>
+            <line>
+              <![CDATA[Clicking the signup buttion]]>
+            </line>
+            <line>
+              <![CDATA[Login successful.....]]>
+            </line>
+            <line>
+              <![CDATA[readdata from excel]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for500ms]]>
+            </line>
+            <line>
+              <![CDATA[Entering the password]]>
+            </line>
+            <line>
+              <![CDATA[clicking on submitButtion]]>
+            </line>
+            <line>
+              <![CDATA[go to home page]]>
+            </line>
+            <line>
+              <![CDATA[there no popup]]>
+            </line>
+            <line>
+              <![CDATA[handling popups]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loginNeostock -->
+        <test-method signature="validateUID()[pri:0, instance:Neotestclasses.validateUserid@791f145a]" started-at="2022-12-23T19:23:40 IST" name="validateUID" finished-at="2022-12-23T19:23:40 IST" duration-ms="577" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[getting Acual userId Apeksha Londhe]]>
+            </line>
+            <line>
+              <![CDATA[readdata from excel]]>
+            </line>
+            <line>
+              <![CDATA[getting Acual userId Apeksha Londhe]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for500ms]]>
+            </line>
+            <line>
+              <![CDATA[Testcase is pass]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for3000ms]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validateUID -->
+        <test-method is-config="true" signature="logout_neostock()[pri:0, instance:Neotestclasses.validateUserid@791f145a]" started-at="2022-12-23T19:23:40 IST" name="logout_neostock" finished-at="2022-12-23T19:23:41 IST" duration-ms="325" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Waiting for1000ms]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for1000ms]]>
+            </line>
+            <line>
+              <![CDATA[logging out neostock]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logout_neostock -->
+        <test-method is-config="true" signature="closeBroser()[pri:0, instance:Neotestclasses.validateUserid@791f145a]" started-at="2022-12-23T19:23:41 IST" name="closeBroser" finished-at="2022-12-23T19:23:41 IST" duration-ms="413" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBroser -->
+      </class> <!-- Neotestclasses.validateUserid -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

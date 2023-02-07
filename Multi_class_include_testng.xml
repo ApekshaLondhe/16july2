@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Multiclass_test_include">
+    <classes>
+      <class name="testNg_xml1.Multiclass4_include">
+      <methods>
+      <include name="A"></include>
+      <include name="B"></include>
+      <include name="C"></include>
+      <include name="D"></include>
+      </methods>
+      </class>
+      <class name="testNg_xml1.Multiclass2_include">
+      <methods>
+      <exclude name="S"></exclude>
+      <exclude name="Z"></exclude>
+      <exclude name="Q"></exclude>
+      <exclude name="K"></exclude>
+      </methods>
+      </class>
+      <class name="testNg_xml1.Multiclass1_include">
+      <methods>
+      <include name="E"></include>
+      <include name="F"></include>
+      <include name="G"></include>
+      <include name="H"></include>
+      </methods>
+      </class>
+      <class name="testNg_xml1.Multiclass3_include">
+      <methods>
+      <exclude name="I"></exclude>
+      <exclude name="J"></exclude>
+      <exclude name="A"></exclude>
+      <exclude name="B"></exclude>
+      </methods>
+      </class>
+    </classes>
+  </test> <!-- Multiclass_test_include -->
+</suite> <!-- Suite -->

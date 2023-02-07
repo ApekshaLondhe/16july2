@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="tests">
+  <test name="Parallly_excutionEx2">
+    <classes>
+      <class name="sirially_parallalyExcution.ParrallyExcutionEX1"/>
+    </classes>
+  </test> <!-- Parallly_excutionEx2 -->
+  <test name="Parallly_excutionEx3">
+    <classes>    
+      <class name="sirially_parallalyExcution.ParrallyExcutionEx2"/>
+    </classes>
+  </test> <!-- Parallly_excutionEx3 -->
+  <test name="Parallly_excutionEx4">
+    <classes>
+      <class name="sirially_parallalyExcution.ParrallyExcutionEX3"/>
+    </classes>
+  </test> <!-- Parallly_excutionEx4 -->
+</suite> <!-- Suite -->

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Sirially_Excution_xml1">
+    <classes>
+      <class name="sirially_parallalyExcution.SiriallyExcutionEx3"/>
+    </classes>
+  </test> <!-- Sirially_Excution_xml -->
+  <test thread-count="5" name="Sirially_Excution_xml2">
+    <classes>
+      <class name="sirially_parallalyExcution.SiriallyExcutionEx4"/>   
+    </classes>
+  </test> <!-- Sirially_Excution_xml -->
+  <test thread-count="5" name="Sirially_Excution_xml3">
+    <classes>
+      <class name="sirially_parallalyExcution.SiriallyExcutionEX5"/>
+    </classes>
+  </test> <!-- Sirially_Excution_xml -->
+</suite> <!-- Suite -->

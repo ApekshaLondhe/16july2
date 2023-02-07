@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="NEOSTOCK(failed)">
+    <classes>
+      <class name="neostock_pom.Test_neostock">
+        <methods>
+          <include name="login_Neostock"/>
+          <include name="ValidateB"/>
+          <include name="validateBalance"/>
+          <include name="BALANCE"/>
+          <include name="LounchBrowser"/>
+          <include name="validateUID"/>
+        </methods>
+      </class> <!-- neostock_pom.Test_neostock -->
+    </classes>
+  </test> <!-- NEOSTOCK(failed) -->
+</suite> <!-- Failed suite [Suite] -->

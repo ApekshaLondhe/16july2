@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="SingleClass_include">
+    <classes>
+      <class name="testNg_xml1.Include_single_class">
+      <methods>
+      <include name="A"></include>
+      <include name="B"></include>
+      <include name="C"></include>
+      <include name="E"></include>
+      </methods>
+      </class>
+    </classes>
+  </test> <!-- SingleClass_include -->
+</suite> <!-- Suite -->
