@@ -18,16 +18,13 @@ public class Facebook_test {
 		test.sendkeyspassword();
 		//test.sendkeyusername();
 		test.clickloginbuttion();
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
+				
 	}
 
+	
+	public static void  apps()
+	{
+		int a;
+	}
+	
 }
